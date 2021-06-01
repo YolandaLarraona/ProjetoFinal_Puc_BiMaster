@@ -7,7 +7,7 @@ Matricula: 191.477.025
 
 Orientador: Anderson Silva do Nascimento
 
-Trabalho apresentado ao curso [PUC-BI MASTER](https://ica.puc-rio.ai/bi-master/) como pré-requisito para conclusão da Pós-graduação BI Master 2019.1
+Trabalho apresentado ao curso [PUC-BI MASTER](https://ica.puc-rio.ai/bi-master/) como pré-requisito para conclusão da Pós-graduação BI Master 2019.1 .
 
 
 
