@@ -1,5 +1,10 @@
 
 Trabalho Projeto Final - PUC - Curso Bi master - 2019.1
+Aluna: Yolanda Larraona Tavares
+
+Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de
+curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à
+Decisão".
 
 Resumo: [Projeto de BI Enterprise para o Sistema de Controle de Demandas](https://github.com/YolandaLarraona/ProjetoFinal_Puc_BiMaster)
 
