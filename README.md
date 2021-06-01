@@ -11,7 +11,7 @@ Trabalho apresentado ao curso [PUC-BI MASTER](https://ica.puc-rio.ai/bi-master/)
 
 
 
-Resumo: 
+*Resumo* 
 
 Este Projeto tem por objetivo a criação de um BI Enterprise para um Sistema de Controle de Demandas- SCD. O SCD faz a gestão de demandas solicitadas à área de TI  de uma organização. As demandas são solicitações para desenvolvimento e manutenção dos sistemas que compõem o parque de soluções de TI da organização. O BI se consolida quando surge a necessidade de realizar consultas e comparações nos dados armazenados ao longo dos anos. Este acervo permite avaliar o passado para planejar o futuro, apoiando as tomadas de decisões no tocante ao planejamento orçamentário, dimensionamento de equipes, avaliação da qualidade das entregas e dos produtos sustentados.
 
