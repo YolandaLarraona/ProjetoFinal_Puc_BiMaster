@@ -7,11 +7,11 @@ Este Projeto tem por objetivo a criação de um BI Enterprise para um Sistema de
 
 Em [Monografia](https://github.com/YolandaLarraona/ProjetoFinal_Puc_BiMaster/blob/main/Monografia/Monografia) há uma descrição mais completa da proposta do trabalho, necessidades e objetivos. 
 
-Neste trabalho o SQL Server foi tilizado como a base de dados. Esses dados seguem disponibilizado em  
+Neste trabalho o SQL Server foi utilizado como a base de dados. Esses dados estão disponibilizado aqui em  [Dados utilizado](https://github.com/YolandaLarraona/ProjetoFinal_Puc_BiMaster/tree/main/Dados)
 
 Em  [Visões](https://github.com/YolandaLarraona/ProjetoFinal_Puc_BiMaster/tree/main/Codigo) está o código desenvolvido para a ciação do Modelo Muldimensional.
 
-[PowerBI](https://github.com/YolandaLarraona/ProjetoFinal_Puc_BiMaster/tree/main/PowerBi)
+Finalmente, em [PowerBI](https://github.com/YolandaLarraona/ProjetoFinal_Puc_BiMaster/tree/main/PowerBi) está o arquivo Power BI contendo todos os painéis construídos para Este projeto.
 
 
 
